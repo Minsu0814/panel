@@ -1,2 +1,2 @@
 # Ladybug Dashboard
-[Simulaiton Site](https://1023sherry.github.io/panel/)
+[Simulaiton Site](https://Minsu0814.github.io/panel/)
